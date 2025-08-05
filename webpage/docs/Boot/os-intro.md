@@ -1,6 +1,6 @@
 ---
 title: Do kernel ao userspace
-slug: os-intro
+slug: /os-intro
 sidebar_position: 1
 ---
 

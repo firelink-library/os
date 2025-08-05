@@ -1,6 +1,6 @@
 ---
 title: Criando um bootloader
-slug: bootloader
+slug: /bootloader
 sidebar_position: 2
 ---
 
